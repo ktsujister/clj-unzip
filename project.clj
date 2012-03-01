@@ -6,4 +6,4 @@
                  [org.apache.commons/commons-io		"1.3.2"]]
   :dev-dependencies [[swank-clojure		"1.4.0"]]
   :jvm-opts ["-Dfile.encoding=utf-8"]
-  :main zip-encoding.core)
+  :main clj-unzip.core)
